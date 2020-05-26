@@ -1,3 +1,5 @@
 ## idea 集成 Tomcat
 
-* 了解tomcat
+* 功能 用户信息的增删改查
+### 技术
+* jdbc mysql  servlet jsp druid BeanUtil tomcat
